@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `Renovation Tips`,
-      href: "https://UkReno.Tips/",
+      name: `中文`,
+      href: "https://ukreno-zh.vercel.app/",
     },
   ],
   // blog setting (required)
