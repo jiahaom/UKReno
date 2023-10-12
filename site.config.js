@@ -18,7 +18,7 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "Property.Renovation.Tips",
+    title: "Property Renovation Tips",
     description: "Tips for Property Renovation.",
   },
 
