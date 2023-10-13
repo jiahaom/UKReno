@@ -12,10 +12,6 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `English`,
-      href: "https://ukreno.tips/",
-    },
-    {
       name: `中文`,
       href: "https://ukreno.info/",
     },
