@@ -13,7 +13,7 @@ const CONFIG = {
   projects: [
     {
       name: `中文`,
-      href: "https://ukreno-zh.vercel.app/",
+      href: "https://ukreno.vercel.app/",
     },
   ],
   // blog setting (required)
